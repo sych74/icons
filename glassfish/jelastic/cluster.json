@@ -24,7 +24,6 @@
     "count": 1,
     "isClusterSupport": false,
     "isDeploySupport": false,
-    "startService": true,
     "validation": {
       "tag": "${clusterNode.tag}",
       "scalingMode": "STATEFUL",
