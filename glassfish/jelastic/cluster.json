@@ -21,9 +21,6 @@
     "count": 1,
     "isClusterSupport": false,
     "isDeploySupport": false,
-    "dockerEnvVars": {
-       "DAS": "true"
-    },
     "validation": {
       "tag": "${clusterNode.tag}",
       "scalingMode": "STATEFUL",
