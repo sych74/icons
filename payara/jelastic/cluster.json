@@ -19,6 +19,7 @@
     "flexibleCloudlets": "${clusterNode.flexibleCloudlets}",
     "displayName": "DAS",
     "count": 1,
+    "isResetServicePassword": "NODEGROUP",
     "isClusterSupport": false,
     "isDeploySupport": false,
     "startService": false,
