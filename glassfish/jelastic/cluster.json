@@ -21,7 +21,7 @@
     "count": 1,
     "isClusterSupport": false,
     "isDeploySupport": false,
-    "isRemovable": false,
+    "isClusterDependency": true,
     "isResetServicePassword": "NODEGROUP",
     "startService": false,
     "validation": {
