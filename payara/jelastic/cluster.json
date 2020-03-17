@@ -22,6 +22,7 @@
     "isResetServicePassword": "NODEGROUP",
     "isClusterSupport": false,
     "isDeploySupport": false,
+    "isClusterDependency": true,
     "startService": false,
     "validation": {
       "tag": "${clusterNode.tag}",
